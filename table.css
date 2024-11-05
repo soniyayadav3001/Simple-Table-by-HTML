@@ -1,0 +1,17 @@
+table {
+    background-color: white;
+}
+
+th, td {
+    border: 2px solid rgb(12, 55, 6);
+    text-align: center;
+}
+th[colspan="7"] {
+    background-color: rgb(3, 125, 3);
+    color: white; 
+    font-size: 2rem; 
+}
+th {
+    background-color: rgb(91, 181, 56);
+    color: white;
+}
